@@ -1,5 +1,5 @@
 README.md
 
-# copy_CLI_Rust
+# replace_CLI_Rust
 2024/11/25
-This project will copy the contains of a given file to another file.
+This project will replace the first find_text in given filename if the find_text is existed in filename
